@@ -1,0 +1,9 @@
+.img {
+    width: 200px;
+    height: 200px;
+    background: red;
+    transform: rotate(90deg);
+}
+.img:hover{
+    transform: rotate(30deg);
+}

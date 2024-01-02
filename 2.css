@@ -1,0 +1,31 @@
+
+.anh{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    background-image: url(https://bedental.vn/wp-content/uploads/2022/12/8547569c0474f8777c0fb3114d590ed3.jpg);
+    background-size: cover;
+    position: relative;
+}
+.anh .vanBan{
+    font-size: 30px;
+    position: absolute;
+    bottom: 50px;
+    left: 0px;
+    color: white;
+}
+.anh .vanBan1{
+    font-size: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    color: white;
+    opacity: 0.5;
+}
+.anh .icon{
+    --ionicon-stroke-width: 16px;
+    position: absolute;
+    top:50px;
+    left: 0px;
+}
+
